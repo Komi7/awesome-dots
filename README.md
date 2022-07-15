@@ -85,6 +85,7 @@ cp misc/vscode/User/settings.json ~/.config/Code/User
  <h1 align="center"> <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?multiline=true&lines=Linux+user+,+Learning+coding">
   </h1>
+ 
 </p>
 
 
