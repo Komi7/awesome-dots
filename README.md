@@ -90,7 +90,7 @@ cp misc/vscode/User/settings.json ~/.config/Code/User
 
 <div align="center">
 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Komi7/resources/blob/main/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
