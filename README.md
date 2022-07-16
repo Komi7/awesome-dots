@@ -1,8 +1,3 @@
-# Archlinux-setup
-## install Archlinux >  
-```bash 
-archinstall 
-``` 
 ## install Awesome,Sddm ,Git > 
 ```bash 
 sudo pacman -S awesome sddm git
